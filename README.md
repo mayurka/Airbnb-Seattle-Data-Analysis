@@ -5,6 +5,7 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Blog](#blog)
+6. [Acknowledgement](#ack)
 
 ## Installation <a name="installation"></a>
 
@@ -35,4 +36,8 @@ There are 3 notebooks available here to showcase work related to the above quest
 3. Key factors that affect price are number of accomodates, bathrooms, bedrooms and beds.
 
 ### Blog<a name="blog"></a>
+[AirBnb-Seattle-Analysis](https://kabadi-mayur.medium.com/airbnb-seattle-analysis-8e5f7418da1b)
+
+### Acknowledgement
+I would like to thank Udacity for creating a learning model that is very efficient and mentors at Udacity for coaching necessary background skills in Data Analysis.
 
