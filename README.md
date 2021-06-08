@@ -38,7 +38,7 @@ Each of the notebooks is exploratory in searching through the data pertaining to
 3. Key factors that affect price are number of accomodates, bathrooms, bedrooms and beds.
 
 ### Blog<a name="blog"></a>
-[AirBnb-Seattle-Analysis](https://kabadi-mayur.medium.com/airbnb-seattle-analysis-8e5f7418da1b)
+[Some insights from AirBnb-Seattle dataset helpful for customers and owners](https://kabadi-mayur.medium.com/airbnb-seattle-analysis-8e5f7418da1b)
 
 ### Acknowledgement
 I would like to thank Udacity for creating a learning model that is very efficient and mentors at Udacity for coaching necessary background skills in Data Analysis.
