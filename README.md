@@ -28,7 +28,9 @@ I chose Airbnb data in Seattle, and have the following 3 questions:
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+Business and Data Understanding.ipynb is a notebook which will elaborate the business and data understanding.
+There are 3 notebooks available here to showcase work related to the above questions - FactorsAffectingPrice.ipynb, Popularity.ipynb, ListingTrend.ipynb.
+Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results<a name="results"></a>
 1. January is the busiest season to visit Seattle. July is the second busiest season to visit Seattle.
